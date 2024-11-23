@@ -1,0 +1,98 @@
+Material,Unit,Value
+Nitrate,ppm,0
+Nitrate,ppm,10
+Nitrate,ppm,25
+Nitrate,ppm,50
+Nitrate,ppm,100
+Nitrate,ppm,250
+Nitrate,ppm,500
+Nitrite,ppm,0
+Nitrite,ppm,1
+Nitrite,ppm,5
+Nitrite,ppm,10
+Nitrite,ppm,20
+Nitrite,ppm,40
+Nitrite,ppm,80
+Total Hardness,ppm,0
+Total Hardness,ppm,25
+Total Hardness,ppm,50
+Total Hardness,ppm,120
+Total Hardness,ppm,250
+Total Hardness,ppm,425
+Free Chlorine,ppm,0
+Free Chlorine,ppm,0.5
+Free Chlorine,ppm,1
+Free Chlorine,ppm,3
+Free Chlorine,ppm,5
+Free Chlorine,ppm,10
+Total Chlorine,ppm,0
+Total Chlorine,ppm,0.5
+Total Chlorine,ppm,1
+Total Chlorine,ppm,3
+Total Chlorine,ppm,5
+Total Chlorine,ppm,10
+Bromine,ppm,0
+Bromine,ppm,1
+Bromine,ppm,2
+Bromine,ppm,6
+Bromine,ppm,10
+Bromine,ppm,20
+MPS,ppm,0
+MPS,ppm,1
+MPS,ppm,2
+MPS,ppm,6
+MPS,ppm,10
+MPS,ppm,20
+Copper,ppm,0
+Copper,ppm,0.5
+Copper,ppm,1
+Copper,ppm,3
+Copper,ppm,10
+Iron,ppm,0
+Iron,ppm,2
+Iron,ppm,5
+Iron,ppm,10
+Lead,ppm,0
+Lead,ppm,20
+Lead,ppm,50
+Lead,ppm,100
+Lead,ppm,200
+Lead,ppm,500
+Nickel,ppm,0
+Nickel,ppm,10
+Nickel,ppm,25
+Nickel,ppm,50
+Nickel,ppm,100
+Nickel,ppm,250
+Nickel,ppm,500
+Sulfite,ppm,0
+Sulfite,ppm,10
+Sulfite,ppm,25
+Sulfite,ppm,50
+Sulfite,ppm,100
+Sulfite,ppm,250
+Sulfite,ppm,500
+Cyanuric Acid,ppm,0
+Cyanuric Acid,ppm,40
+Cyanuric Acid,ppm,100
+Cyanuric Acid,ppm,150
+Cyanuric Acid,ppm,240
+Carbonate,ppm,0
+Carbonate,ppm,40
+Carbonate,ppm,80
+Carbonate,ppm,120
+Carbonate,ppm,180
+Carbonate,ppm,240
+Total Alkalinity,ppm,0
+Total Alkalinity,ppm,40
+Total Alkalinity,ppm,80
+Total Alkalinity,ppm,120
+Total Alkalinity,ppm,180
+Total Alkalinity,ppm,240
+pH,pH_Units,6
+pH,pH_Units,6.4
+pH,pH_Units,6.8
+pH,pH_Units,7.2
+pH,pH_Units,7.6
+pH,pH_Units,8.2
+pH,pH_Units,9

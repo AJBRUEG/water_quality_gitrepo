@@ -1,0 +1,17 @@
+Material,Desired Unit,Limit,Unit,Molecular Weight,"Limit, Desired Unit"
+Nitrate,ppm,10,mg/L,62.0049,10
+Nitrite,ppm,1,mg/L,46.005,1
+Total Hardness,ppm,175,mg/L,100.0869,175
+Free Chlorine,ppm,0.5,mg/L,35.453,0.5
+Total Chlorine,ppm,4,mg/L,35.453,4
+Bromine,ppm,2,mg/L,159.808,2
+MPS,ppm,100,ppm,N/A,100
+Copper,ppm,1.3,mg/L,63.546,1.3
+Iron,ppm,0.3,mg/L,55.845,0.3
+Lead,ppm,15,ug/L,207.2,0.015
+Nickel,ppm,0.1,mg/L,58.6934,0.1
+Sulfite,ppm,10,mg/L,80.07,10
+Cyanuric Acid,ppm,40,mg/L,129.07,40
+Carbonate,ppm,240,ppm,N/A,240
+Total Alkalinity,ppm,400,ppm,N/A,400
+pH,pH Units,8.5,pH Units,N/A,8.5
